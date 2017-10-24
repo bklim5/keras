@@ -1,5 +1,14 @@
 # Convolutional Neural Network for Crystallization Image Classification
 
+## Dependencies
+```
+keras
+theano
+matplotlib
+numpy
+```
+
+
 protein-classifier.ipynb contains steps and comments on the classification of protein crystallization using CNN. A simple CNN and pre-trained model (Vgg16) has been used to demonstrate the effectiveness of CNN in this task.
 
 You might need to download Vgg16 weights from public source for the script to run. One source is here: http://files.fast.ai/models/ vgg16.h5 file.
